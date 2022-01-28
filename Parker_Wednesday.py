@@ -1,0 +1,5 @@
+print("Today is Wednesday.")
+print("The date is January 23, 2019.")
+print("Tommorrow is Thursday.")
+NOF = input ("What is your friends name: ")
+print("NOF")

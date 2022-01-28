@@ -1,0 +1,6 @@
+fir= int(input('First digit: '))
+sec= int(input('Second digit: '))
+thi= int(input('Third digit: '))
+fou= int(input('Fourth digit: '))
+res = ( ( fir * 1) + ( sec * 2 ) + ( thi * 4 ) + ( fou * 8 ) )
+print('Result:',res)

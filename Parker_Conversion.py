@@ -1,0 +1,6 @@
+print('This program converts from feet and inches to centimeters.')
+feet = int(input('Enter feet: '))
+inches = int(input('Enter inches: '))
+print('')
+length = ( ( feet * 12 * 2.54) + ( inches * 2.54 ))
+print('The length is',format(length,'.2f'),'cm.')

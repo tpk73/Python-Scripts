@@ -1,0 +1,5 @@
+print('Profit Prediction.')
+sales = float(input('Enter amount of sales: '))
+print('Total sales:',format(sales,'.2f'))
+profit = ( .21 * sales)
+print('Expected profit:',format(profit,'.2f'))
